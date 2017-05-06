@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Tabata Timer from Alex</string>
+    <string name="start">START</string>
+    <string name="icon_tabata">icon tabata quantity</string>
+    <string name="icon_cycle">icon cycle quantity</string>
+    <string name="icon_rest">icon yoga</string>
+    <string name="icon_work">icon running man</string>
+    <string name="icon_prepare">icon heart</string>
+    <string name="prepare">PREPARE</string>
+    <string name="work">WORK</string>
+    <string name="rest">REST</string>
+    <string name="finish">FINISH</string>
+    <string name="good">GOOD JOB</string>
+    <string name="use">USE</string>
+    <string name="delete">DELETE</string>
+    <string name="add">ADD</string>
+    <string name="addATabata">ADD A TABATA</string>
+    <string name="tabataList">TABATA LIST</string>
+    <string name="prepareTime">PREPARE TIME : </string>
+    <string name="workTime">WORK TIME : </string>
+    <string name="restTime">REST TIME : </string>
+    <string name="cycleNumber">CYCLE NUMBER : </string>
+    <string name="tabataNumber">TABATA NUMBER : </string>
+    <string name="seconde"> sec </string>
+    <string name="textViewCreate">Entrez ici le nom du tabata</string>
+    <string name="title_activity_sugar">TEST</string>
+    <string name="title_activity_menu">MenuActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
